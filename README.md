@@ -19,6 +19,9 @@ A modern, responsive web application for exploring world countries with advanced
 
 ![image](https://github.com/user-attachments/assets/3c859c4e-359b-497b-9bda-0e5b316849a5)
 
+![image](https://github.com/user-attachments/assets/352e87df-7dc8-408f-b0b0-b4425e57cc95)
+
+
 
 *Main interface showing country cards with search and filter functionality*
 
@@ -34,7 +37,7 @@ A modern, responsive web application for exploring world countries with advanced
 | **React Query** | Data Fetching | Intelligent caching, background updates, and loading states |
 | **REST Countries API** | Data Source | Comprehensive country information |
 
-## 🏗️ Architecture
+## Architecture
 
 This project follows **Atomic Design** principles for scalable component architecture:
 
@@ -80,7 +83,7 @@ npm run preview
 
 The application will be available at `http://localhost:5173`
 
-## 🔧 Available Scripts
+## Available Scripts
 
 | Command | Description |
 |---------|-------------|
@@ -90,7 +93,7 @@ The application will be available at `http://localhost:5173`
 | `npm run lint` | Run ESLint |
 | `npm run type-check` | Run TypeScript compiler check |
 
-## 🌐 API Integration
+##  API Integration
 
 The app integrates with the [REST Countries API](https://restcountries.com/):
 
@@ -127,7 +130,7 @@ The app integrates with the [REST Countries API](https://restcountries.com/):
 - Screen reader friendly content
 - Color contrast compliance
 
-## 🧪 Testing Strategy
+##  Testing Strategy
 
 ```bash
 # Run unit tests
@@ -159,17 +162,17 @@ npm run build
 # Deploy dist folder to Netlify
 ```
 
-## 👨‍💻 Author
+##  Author
 
-**Isreal Onaopemipo Aluko**
+**Isreal Aluko**
 *Frontend Engineer | Inventors' Next-Gen Builders Program*
 
-- 🌍 Location: Nigeria 🇳🇬
-- 💼 GitHub: [@eazyisreal](https://github.com/eazyisreal)
-- 🔗 LinkedIn: [Connect with me](https://linkedin.com/in/eazyisreal)
-- 📧 Email: eazyisreal192@gmail.com
+-  Location: Nigeria 🇳🇬
+-  GitHub: [@eazyisreal](https://github.com/eazyisreal)
+-  LinkedIn: [Connect with me](https://linkedin.com/in/eazyisreal)
+-  Email: eazyisreal192@gmail.com
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - [REST Countries API](https://restcountries.com/) for providing comprehensive country data
 - [Shadcn/UI](https://ui.shadcn.com/) for beautiful and accessible UI components
